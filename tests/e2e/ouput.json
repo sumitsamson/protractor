@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Protractor Demo App should have a title",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1194
+  },
+  {
+    "description": "Protractor Demo App should add one and two",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2651
+  },
+  {
+    "description": "Protractor Demo App should add four and six",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2302
+  },
+  {
+    "description": "Protractor Demo App should read the value from an input",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 298
+  },
+  {
+    "description": "Protractor Demo App should have a title",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 264
+  },
+  {
+    "description": "Protractor Demo App should add one and two",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2288
+  },
+  {
+    "description": "Protractor Demo App should add four and six",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2349
+  },
+  {
+    "description": "Protractor Demo App should read the value from an input",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 295
+  }
+]
