@@ -6,8 +6,7 @@ exports.config = {
   smoke: 'smoke/*.js',
   performance: 'performance/*.js',
   regression: 'regression/*.js'
-  }
-
+  },
   params: {
     login: {
        user: 'Jane',
